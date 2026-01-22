@@ -1,0 +1,11 @@
+Un administrador de un estacionamiento necesita un programa que permita calcular el total a pagar de varios clientes que utilizan el servicio.
+El programa debe solicitar por teclado dos datos:
+    - La patente del vehiculo.
+    - El tipo de estacionamiento.
+Los tipos disponibles de estacionamiento son 3:
+    - Por hora (cuyo valor es de $3USD por hora.
+    - Media jornada (cuyo valor total es de $15USD y posee 5% de descuento)
+    - Jornada completa (cuyo valor fijo es de $30USD y posee 10% de descuento)
+
+El programa debe calcular el monto a pagar para cada cliente en funcion del tipo de estacionamiento seleccionado.
+La carga de datos debe continuar hasta que el usuario ingrese la palabra "FIN" en lugar de la patente.
