@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EjercicioEnglishSchool/EjercicioEnglishSchool.iml" filepath="$PROJECT_DIR$/EjercicioEnglishSchool/EjercicioEnglishSchool.iml" />
       <module fileurl="file://$PROJECT_DIR$/EjercicioEstacionamiento/EjercicioEstacionamiento.iml" filepath="$PROJECT_DIR$/EjercicioEstacionamiento/EjercicioEstacionamiento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjercicioMatricesVectores/EjercicioMatricesVectores.iml" filepath="$PROJECT_DIR$/EjercicioMatricesVectores/EjercicioMatricesVectores.iml" />
       <module fileurl="file://$PROJECT_DIR$/EjercicioMerceria/EjercicioMerceria.iml" filepath="$PROJECT_DIR$/EjercicioMerceria/EjercicioMerceria.iml" />
       <module fileurl="file://$PROJECT_DIR$/EjercicioOperadorTernario/EjercicioOperadorTernario.iml" filepath="$PROJECT_DIR$/EjercicioOperadorTernario/EjercicioOperadorTernario.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-SE-practice.iml" filepath="$PROJECT_DIR$/.idea/java-SE-practice.iml" />
