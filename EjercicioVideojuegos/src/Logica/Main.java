@@ -39,10 +39,10 @@ public class Main {
         }
 
         // Punto 5
+        System.out.println("----------------------");
         for (Videojuego juego: listaJuegos) {
             if (juego.getConsola().equals("Nintendo 64")) {
-                String jugador = juego.getCantidadJugadores() > 1 ? "jugadores" : "jugador";
-                System.out.println("El juego " + juego.getTitulo() + " permite " + juego.getCantidadJugadores() + " " + jugador + ". Está disponible en la consola: " + juego.getConsola());
+                System.out.println(juego.toString());
             }
         }
     }

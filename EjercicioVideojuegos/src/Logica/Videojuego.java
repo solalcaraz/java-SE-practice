@@ -1,6 +1,17 @@
 package Logica;
 
 public class Videojuego {
+    @Override
+    public String toString() {
+        return "Videojuego{" +
+                "codigo=" + codigo +
+                ", cantidadJugadores=" + cantidadJugadores +
+                ", titulo='" + titulo + '\'' +
+                ", consola='" + consola + '\'' +
+                ", categoria='" + categoria + '\'' +
+                '}';
+    }
+
     // Punto 1
     private int codigo, cantidadJugadores;
     private String titulo, consola, categoria;
