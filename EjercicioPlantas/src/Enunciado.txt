@@ -1,0 +1,20 @@
+* Crear una clase Planta con los atributos:
+    - nombre
+    - alto del tallo
+    - tiene hojas
+    - clima ideal
+(con sus metodos y constructores correspondientes)
+
+* Crear sus clases hijas que compartan sus atributos y metodos:
+    - Arbol: variedad, tipo de tronco, radio de tronco, color y tipo de hojas.
+    - Flor: color de petalos, cantidad promedio de petalos, color del pistillo, variedad de flor, estacion que florece.
+    - Arbusto: ancho arbusto, es domestico, variedad arbusto, color de hojas, se poda o no.
+
+* Una vez creada las clases crear los siguientes metodos:
+    - Arbol: metodo para mostrar un mensaje en pantalla que diga "Hola soy un arbol".
+    - Flor: metodo para mostrar un mensaje en pantalla que diga "Hola soy una flor".
+    - Arbusto: metodo para mostrar un mensaje en pantalla que diga "Hola soy un arbusto".
+
+* Crear en el main un objeto de cada clase hija. Llamar a los 3 metodos desde cada objeto.
+
+* Cambiar el modificador de acceso a los metodos de public a private. Intentar acceder desde el main a estos metodos.
